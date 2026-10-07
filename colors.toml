@@ -1,0 +1,33 @@
+mode = "dark"
+
+# Palette sampled from the nebula-glasses cat wallpaper:
+# charcoal fur neutrals + cyan / magenta / orange lens accents.
+accent = "#3bbdce"
+selection = "#2a3538"
+muted = "#6e7072"
+
+background = "#1e292c"
+dark_background = "#12181a"
+darker_background = "#070b0e"
+lighter_background = "#394548"
+
+foreground = "#e6e3e0"
+dark_foreground = "#7a7d81"
+light_foreground = "#c4bcba"
+bright_foreground = "#f6f7f4"
+
+red = "#e06a5a"
+yellow = "#e0c25a"
+orange = "#da803e"
+green = "#5cdfa1"
+cyan = "#67eae5"
+blue = "#5cc0ca"
+magenta = "#c45fa0"
+brown = "#7d4c2f"
+
+bright_red = "#f09a8e"
+bright_yellow = "#f0d98a"
+bright_green = "#8aecc0"
+bright_cyan = "#a3e6e4"
+bright_blue = "#8ad4db"
+bright_magenta = "#e49fb0"
